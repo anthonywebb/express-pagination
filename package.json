@@ -1,0 +1,15 @@
+{
+  "author": "James Carr <james.r.carr@gmail.com>",
+  "name": "express-pagination",
+  "description": "An express helper to generate pagination links",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
