@@ -1,4 +1,4 @@
-module.exports.paginate = function(count, nPerPage, pageNumber, cb) {
+module.exports.paginate = function(count, nPerPage, pageNumber) {
   var dots, link, n, n_display, output, page_links, settings;
   settings = new Array();
   settings['base'] = '%_%';
