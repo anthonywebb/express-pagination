@@ -5,7 +5,7 @@ your views.
 Set it up in your app via:
 
 ```javascript
-app.helpers(require('pagination');
+app.helpers(require('pagination'));
 ```
 or 
 ```javascript
