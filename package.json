@@ -2,13 +2,13 @@
   "author": "James Carr <james.r.carr@gmail.com>",
   "name": "express-pagination",
   "description": "An express helper to generate pagination links",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
-    "url": ""
+    "url": "git@github.com:surety-bonds/express-pagination.git"
   },
   "main": "index.js",
   "engines": {
-    "node": "~0.6.6"
+    "node": ">=0.2.0"
   },
   "dependencies": {},
   "devDependencies": {}

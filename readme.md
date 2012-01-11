@@ -2,6 +2,10 @@
 This is a super simple module to provide a pagination helper function in
 your views.
 
+## Using It
+Add the module 'express-pagination' to your package.json and refresh
+your dependencies via npm. 
+
 Set it up in your app via:
 
 ```javascript
