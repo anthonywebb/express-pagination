@@ -4,7 +4,7 @@
   "description": "An express helper to generate pagination links",
   "version": "0.0.2",
   "repository": {
-    "url": "git@github.com:surety-bonds/express-pagination.git"
+    "url": "git@github.com:starfish-prime/express-pagination.git"
   },
   "main": "index.js",
   "engines": {
