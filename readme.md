@@ -29,4 +29,5 @@ And use it from your view (given the following locals are defined).
 
 ## License 
 
-This software is licensed under the GNU Public License. 
+This software is licensed under the GNU Public License. See COPYING for
+further details.
