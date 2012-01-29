@@ -2,9 +2,9 @@
   "author": "James Carr <james.r.carr@gmail.com>",
   "name": "express-pagination",
   "description": "An express helper to generate pagination links",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
-    "url": "git@github.com:starfish-prime/express-pagination.git"
+    "url": "git://github.com/starfish-prime/express-pagination.git"
   },
   "main": "index.js",
   "engines": {
