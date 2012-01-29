@@ -4,6 +4,7 @@
   "description": "An express helper to generate pagination links",
   "version": "0.0.3",
   "repository": {
+    "type": "git",
     "url": "git://github.com/starfish-prime/express-pagination"
   },
   "main": "index.js",
