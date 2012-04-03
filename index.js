@@ -34,7 +34,7 @@ module.exports.paginate = function(count, nPerPage, pageNumber, opts) {
         page_links.push('<li><a href="' + link + settings["add_args"] + '">' + n_display + '</a></li>');
         dots = true;
       } else if (dots && !settings["show_all"]) {
-        page_links.push('<li class="disabled"><a href="#">¿</a></li>');
+        page_links.push('<li class="disabled"><a href="#">&#8230;</a></li>');
         dots = false;
       }
     }
