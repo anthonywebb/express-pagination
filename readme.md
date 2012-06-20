@@ -10,7 +10,7 @@ your dependencies via npm.
 Set it up in your app via:
 
 ```javascript
-app.helpers(require('pagination'));
+app.helpers(require('express-pagination'));
 
 ```
 
@@ -18,7 +18,7 @@ or
 
 ```javascript
 app.helpers({
-  paginate:require('pagination').paginate
+  paginate:require('express-pagination').paginate
 });
 
 ```
