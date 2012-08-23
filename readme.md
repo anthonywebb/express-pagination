@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/starfish-prime/express-pagination.png)](http://travis-ci.org/starfish-prime/express-pagination)
 # express-pagination
 This is a super simple module to provide a pagination helper function in
 your views. Code is derived from the pagination logic found in
