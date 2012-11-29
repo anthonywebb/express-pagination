@@ -25,6 +25,8 @@ module.exports.paginate = function(count, nPerPage, pageNumber, opts) {
   for (n=1; n <= settings["total"]; n++) {
     n_display = n;
     if (n === settings["current"]) {
+      link = settings["base"].replace("%_%", settings["format"]);
+      link = link.replace("%#%", settings["current"]);
       page_links.push('<li class="active"><a href="' + link + settings["add_args"] + '">' + n_display + '</a></li>');
       dots = true;
     } else {
